@@ -1,0 +1,121 @@
+[19-Mar-2017 10:26:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 10:26:32 America/Chicago] PHP Warning:  copy(uploads/Sushil Khadka.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 25
+[19-Mar-2017 10:26:34 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/uk" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 10:33:21 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/swain/public_html/test1/first.php on line 4
+[19-Mar-2017 10:34:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 10:34:05 America/Chicago] PHP Warning:  copy(uploads/Sushil Khadka.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 25
+[19-Mar-2017 10:34:06 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/uk" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 10:39:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 10:39:59 America/Chicago] PHP Warning:  copy(uploads/Sushil Khadka.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 25
+[19-Mar-2017 10:40:00 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/nepal" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 10:40:11 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 10:40:12 America/Chicago] PHP Warning:  copy(uploads/Sushil Khadka.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 25
+[19-Mar-2017 10:40:13 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/nepal" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 10:45:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 10:45:14 America/Chicago] PHP Warning:  copy(uploads/Sushil Khadka.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 25
+[19-Mar-2017 10:45:16 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/mexico" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 10:51:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 10:51:08 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/mexico" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 12:21:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/swain/public_html/test1/mail.php on line 16
+[19-Mar-2017 12:37:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 12:37:56 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/nepal" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 12:41:41 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 12:41:43 America/Chicago] PHP Fatal error:  Uncaught PHPImageWorkshop\Exception\ImageWorkshopBaseException: [2]: File "../photo_new/pictures/flags/uk" not exists.
+
+  thrown in /home4/swain/public_html/photo_new/PHPImageWorkshop/ImageWorkshop.php on line 58
+[19-Mar-2017 12:44:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 12:44:27 America/Chicago] PHP Warning:  copy(uploads/Sushil Khadka.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 14
+[19-Mar-2017 12:44:28 America/Chicago] PHP Warning:  imagecreatefrompng(pictures/flags/pictures/flags/uk.png): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 17
+[19-Mar-2017 12:44:28 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:44:28 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:44:28 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:44:28 America/Chicago] PHP Warning:  imagejpeg(pictures/merged/Sushil Khadkapictures/flags/uk.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 52
+[19-Mar-2017 12:44:28 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 55
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  imagecreatefrompng(pictures/flags/pictures/flags/uk.png): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 17
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  imagejpeg(pictures/merged/Sushil Khadkapictures/flags/uk.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 52
+[19-Mar-2017 12:45:47 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 55
+[19-Mar-2017 12:45:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[19-Mar-2017 12:45:54 America/Chicago] PHP Warning:  imagecreatefrompng(pictures/flags/pictures/flags/uk.png): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 17
+[19-Mar-2017 12:45:54 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:45:54 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:45:54 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[19-Mar-2017 12:45:54 America/Chicago] PHP Warning:  imagejpeg(pictures/merged/Sushil Khadkapictures/flags/uk.jpg): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 52
+[19-Mar-2017 12:45:54 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 55
+[19-Mar-2017 12:47:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[21-Mar-2017 08:08:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/merge.php:1) in /home4/swain/public_html/test1/merge.php on line 2
+[21-Mar-2017 08:08:08 America/Chicago] PHP Warning:  imagecreatefrompng(pictures/flags/.png): failed to open stream: No such file or directory in /home4/swain/public_html/test1/merge.php on line 17
+[21-Mar-2017 08:08:08 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[21-Mar-2017 08:08:08 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[21-Mar-2017 08:08:08 America/Chicago] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 22
+[21-Mar-2017 08:08:08 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home4/swain/public_html/test1/merge.php on line 55
+[21-Jun-2017 06:04:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'swain'@'localhost' to database 'swian_cordinates' in /home4/swain/public_html/test1/includes_long/database.php on line 9
+[21-Jun-2017 06:58:22 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[21-Jun-2017 08:07:02 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/swain/public_html/test1/js_call.php on line 9
+[21-Jun-2017 10:02:56 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home4/swain/public_html/test1/js_call.php on line 39
+[21-Jun-2017 10:05:20 America/Chicago] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home4/swain/public_html/test1/js_call.php on line 19
+[21-Jun-2017 10:06:44 America/Chicago] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home4/swain/public_html/test1/js_call.php on line 19
+[21-Jun-2017 10:41:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:42:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:42:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:42:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:42:54 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:43:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:09 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:29 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:37 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:51 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:44:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:21 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:24 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 10:45:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/swain/public_html/test1/js_call.php:2) in /home4/swain/public_html/test1/js_call.php on line 3
+[21-Jun-2017 13:47:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/swain/public_html/test1/test_map.php on line 28

@@ -1,0 +1,2 @@
+[16-Mar-2017 14:46:33 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home4/swain/public_html/test/includes/DbOperations.php on line 15
+[16-Mar-2017 14:48:34 America/Chicago] PHP Fatal error:  Call to a member function execute() on boolean in /home4/swain/public_html/test/includes/DbOperations.php on line 15

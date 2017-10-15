@@ -1,0 +1,1 @@
+[10-Mar-2017 13:37:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'swain2'@'localhost' (using password: YES) in /home4/swain/public_html/test/facebook/database.php on line 9
